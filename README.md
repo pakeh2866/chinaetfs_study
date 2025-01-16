@@ -42,4 +42,4 @@ ETF-Saving-World/
 感谢所有参与本项目的贡献者！你们的努力让这个项目更加完善。
 <a href="https://github.com/你的用户名/ETF-Saving-World/graphs/contributors"> <img src="https://contrib.rocks/image?repo=你的用户名/ETF-Saving-World" /> </a>
 
-免责声明：本项目仅为个人学习和研究使用，所有内容均来自公开信息，不构成任何投资建议。投资有风险，入市需谨慎。
+**免责声明：**本项目仅为个人学习和研究使用，所有内容均来自公开信息，不构成任何投资建议。投资有风险，入市需谨慎。
