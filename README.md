@@ -10,6 +10,7 @@
 2. **按品种整理**：每个ETF品种一个文件，整理该品种的相关数据和讨论。
 
 ### 目录结构
+```
 ETF-Saving-World/
 ├── README.md
 ├── by-year/
@@ -23,7 +24,7 @@ ETF-Saving-World/
 │ ├── 创业板.md
 │ └── ...
 └── CONTRIBUTING.md
-
+```
 
 ## 如何使用
 
