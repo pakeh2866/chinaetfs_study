@@ -44,12 +44,10 @@ ETF-STUDY/
 1. **Fork 本项目**：点击右上角的 `Fork` 按钮，将项目复制到你的 GitHub 账户下。
 2. 修改后提交合并请求。
 
-
 贡献者
 感谢所有参与本项目的贡献者！你们的努力让这个项目更加完善。
-<a href="https://github.com/你的用户名/ETF-Saving-World/graphs/contributors"> <img src="https://contrib.rocks/image?repo=你的用户名/ETF-Saving-World" /> </a>
 
-**免责声明：**
+## **免责声明：**
 
 1. 本项目仅为个人学习和研究使用，所有内容均来自公开信息，不构成任何投资建议。投资有风险，入市需谨慎。
 2. 项目中所有内容（包括粉丝发表的评论）均来源于微博公开内容，版权归原作者所有。
