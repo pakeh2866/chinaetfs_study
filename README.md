@@ -17,7 +17,7 @@
 
 ### 目录结构
 ```
-ETF-Saving-World/
+ETF-STUDY/
 ├── README.md
 ├── by-year/
 │ ├── 2020.md
